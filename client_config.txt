@@ -1,0 +1,3 @@
+# WebSocket URL of your Node.js server. Plain ws:// is intentional for the classroom lab.
+server_url=ws://127.0.0.1:8080/game
+player_name=Fady

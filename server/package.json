@@ -1,0 +1,9 @@
+{
+  "name": "fady-arena-authoritative-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Authoritative HTTP/WebSocket server for Fady Arena Ascension",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.18.0" }
+}
