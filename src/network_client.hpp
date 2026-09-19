@@ -19,7 +19,7 @@ class NetworkClient {
 public:
     std::atomic<bool> connected{false};
     bool waiting=false, playing=false, roundEnded=false, complete=false;
-    std::string url="ws://127.0.0.1:8080/game", playerName="Fady", roomId, playerId, error;
+    std::string url="ws://158.220.122.81:8089/game", playerName="Fady", roomId, playerId, error;
     int round=1, unlockedWeapon=-1, obstacleSeed=1;
     std::string roundWinner, championId;
     std::vector<int> weaponOrder, available{0,1};
