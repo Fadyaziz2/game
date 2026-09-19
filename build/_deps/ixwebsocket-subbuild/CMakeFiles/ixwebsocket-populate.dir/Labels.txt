@@ -1,0 +1,14 @@
+# Target labels
+ ixwebsocket-populate
+# Source files and their labels
+/Users/fadygamil/Desktop/c++course/Untitled/game/build/_deps/ixwebsocket-subbuild/CMakeFiles/ixwebsocket-populate
+/Users/fadygamil/Desktop/c++course/Untitled/game/build/_deps/ixwebsocket-subbuild/CMakeFiles/ixwebsocket-populate.rule
+/Users/fadygamil/Desktop/c++course/Untitled/game/build/_deps/ixwebsocket-subbuild/CMakeFiles/ixwebsocket-populate-complete.rule
+/Users/fadygamil/Desktop/c++course/Untitled/game/build/_deps/ixwebsocket-subbuild/ixwebsocket-populate-prefix/src/ixwebsocket-populate-stamp/ixwebsocket-populate-build.rule
+/Users/fadygamil/Desktop/c++course/Untitled/game/build/_deps/ixwebsocket-subbuild/ixwebsocket-populate-prefix/src/ixwebsocket-populate-stamp/ixwebsocket-populate-configure.rule
+/Users/fadygamil/Desktop/c++course/Untitled/game/build/_deps/ixwebsocket-subbuild/ixwebsocket-populate-prefix/src/ixwebsocket-populate-stamp/ixwebsocket-populate-download.rule
+/Users/fadygamil/Desktop/c++course/Untitled/game/build/_deps/ixwebsocket-subbuild/ixwebsocket-populate-prefix/src/ixwebsocket-populate-stamp/ixwebsocket-populate-install.rule
+/Users/fadygamil/Desktop/c++course/Untitled/game/build/_deps/ixwebsocket-subbuild/ixwebsocket-populate-prefix/src/ixwebsocket-populate-stamp/ixwebsocket-populate-mkdir.rule
+/Users/fadygamil/Desktop/c++course/Untitled/game/build/_deps/ixwebsocket-subbuild/ixwebsocket-populate-prefix/src/ixwebsocket-populate-stamp/ixwebsocket-populate-patch.rule
+/Users/fadygamil/Desktop/c++course/Untitled/game/build/_deps/ixwebsocket-subbuild/ixwebsocket-populate-prefix/src/ixwebsocket-populate-stamp/ixwebsocket-populate-test.rule
+/Users/fadygamil/Desktop/c++course/Untitled/game/build/_deps/ixwebsocket-subbuild/ixwebsocket-populate-prefix/src/ixwebsocket-populate-stamp/ixwebsocket-populate-update.rule

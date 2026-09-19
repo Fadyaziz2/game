@@ -1,0 +1,14 @@
+# Target labels
+ json-populate
+# Source files and their labels
+/Users/fadygamil/Desktop/c++course/Untitled/game/build/_deps/json-subbuild/CMakeFiles/json-populate
+/Users/fadygamil/Desktop/c++course/Untitled/game/build/_deps/json-subbuild/CMakeFiles/json-populate.rule
+/Users/fadygamil/Desktop/c++course/Untitled/game/build/_deps/json-subbuild/CMakeFiles/json-populate-complete.rule
+/Users/fadygamil/Desktop/c++course/Untitled/game/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build.rule
+/Users/fadygamil/Desktop/c++course/Untitled/game/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure.rule
+/Users/fadygamil/Desktop/c++course/Untitled/game/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download.rule
+/Users/fadygamil/Desktop/c++course/Untitled/game/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install.rule
+/Users/fadygamil/Desktop/c++course/Untitled/game/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir.rule
+/Users/fadygamil/Desktop/c++course/Untitled/game/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch.rule
+/Users/fadygamil/Desktop/c++course/Untitled/game/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test.rule
+/Users/fadygamil/Desktop/c++course/Untitled/game/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update.rule

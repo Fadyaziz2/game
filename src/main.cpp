@@ -1,3 +1,4 @@
+#include <ixwebsocket/IXNetSystem.h>
 #include "raylib.h"
 #include "raymath.h"
 #include "network_client.hpp"
@@ -247,6 +248,7 @@ static const char* KeyName(int i) { static const char* k[]={"1","2","3","4","5",
 
 int main() {
     SetConfigFlags(FLAG_MSAA_4X_HINT|FLAG_WINDOW_RESIZABLE|FLAG_VSYNC_HINT);
+        ix::initNetSystem();
     InitWindow(SCREEN_W,SCREEN_H,"Fady: Arena Ascension");
     SetTargetFPS(60);
 
@@ -448,5 +450,7 @@ int main() {
         EndDrawing();
     }
     CloseWindow();
+    ix::uninitNetSystem();
+
     return 0;
 }
