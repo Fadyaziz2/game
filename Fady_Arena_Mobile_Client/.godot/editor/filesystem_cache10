@@ -1,0 +1,11 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1789800713
+ANDROID_CLEARTEXT_NOTE.md::TextFile::-1::1789799467::0::1::::<><><>0<>0<><>::
+export_presets.cfg::TextFile::-1::1789799420::0::1::::<><><>0<>0<><>::
+main.tscn::PackedScene::-1::1789799294::0::1::::<><><>0<>0<><>::res://scripts/main.gd
+README_AR.md::TextFile::-1::1789799420::0::1::::<><><>0<>0<><>::
+server_config.json::JSON::-1::1789799294::0::1::::<><><>0<>0<><>::
+::res://scripts/::1789800586
+main.gd::GDScript::7066847184533512163::1789800927::0::1::::<>Node<><>0<>0<><>::
+network_client.gd::GDScript::6583153108403501987::1789799295::0::1::::ArenaNetwork<>RefCounted<><>0<>0<><>::
+virtual_joystick.gd::GDScript::8987244530997580257::1789799296::0::1::::VirtualJoystick<>Control<><>0<>0<><>::

@@ -165,19 +165,19 @@ func _build_weapon_buttons()->void:
 
 func _update_player(delta:float)->void:
 	var move: Vector2 = joystick.value
-var keyboard: Vector2 = Vector2.ZERO
+	var keyboard: Vector2 = Vector2.ZERO
 
-if Input.is_key_pressed(KEY_A):
-	keyboard.x -= 1.0
+	if Input.is_key_pressed(KEY_A):
+		keyboard.x -= 1.0
 
-if Input.is_key_pressed(KEY_D):
-	keyboard.x += 1.0
+	if Input.is_key_pressed(KEY_D):
+		keyboard.x += 1.0
 
-if Input.is_key_pressed(KEY_W):
-	keyboard.y += 1.0
+	if Input.is_key_pressed(KEY_W):
+		keyboard.y += 1.0
 
-if Input.is_key_pressed(KEY_S):
-	keyboard.y -= 1.0
+	if Input.is_key_pressed(KEY_S):
+		keyboard.y -= 1.0
 	move+=keyboard.normalized() if keyboard.length()>0 else Vector2.ZERO
 	move=move.limit_length(1)
 	var dir:=Vector3(move.x,0,move.y)
